@@ -3,15 +3,21 @@
 		<loc>https://hotpok.ru/</loc>
 	</url>
 	<url>
+		<loc>https://hotpok.ru/overview</loc>
+	</url>
+	<url>
+		<loc>https://hotpok.ru/deposits</loc>
+	</url>
+	<url>
+		<loc>https://hotpok.ru/withdraw</loc>
+	</url>
+	<url>
+		<loc>https://hotpok.ru/android-apk</loc>
+	</url>
+	<url>
+		<loc>https://hotpok.ru/rake</loc>
+	</url>
+	<url>
 		<loc>https://hotpok.ru/install</loc>
-	</url>
-	<url>
-		<loc>https://hotpok.ru/terms-of-use</loc>
-	</url>
-	<url>
-		<loc>https://hotpok.ru/data-processing</loc>
-	</url>
-	<url>
-		<loc>https://hotpok.ru/disclaimer</loc>
 	</url>
 </urlset>
